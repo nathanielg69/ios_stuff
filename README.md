@@ -11,6 +11,12 @@
 noaslr, posix_spawn and tiny-shell.<br>
 All other works fine and don't need a patch.
 
+<b><h2>Updates & New & Deleted</h2></b><br>
+Update: README.md from /
+<br>
+Deleted: Make files replace with patched
+<br>
+New: tiny-shell/README
 
 <b><h2>How can I use it?</b></h2>
 <br>
